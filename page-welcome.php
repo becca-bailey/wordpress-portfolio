@@ -57,9 +57,9 @@ get_header(); ?>
 					<li class="p1">Adding or removing space between content, widgets, navigation menu items, etc.</li>
 					<li class="p1">Installing a new theme (for theme install + additional fixes, see “Now it’s getting serious…”)</li>
 				</ul>
-				<h3 class="price" style="text-align: left;">$20 each</h3>
-				<h3 class="contact"><a href="http://www.beccanelsonmakesthings.com/contact/">Contact Me</a></h3><span class="clearfix"><nbsp /></span>
-			</div>
+				<h3 class="price" style="text-align: left;">Starting at $20</h3>
+<!-- 				<h3 class="contact"><a href="http://www.beccanelsonmakesthings.com/contact/">Contact Me</a></h3><span class="clearfix"><nbsp /></span>
+ -->			</div>
 
 			<div class="services">
 				<h1 class="packages-header">I need a little more help.</h1>
@@ -68,9 +68,9 @@ get_header(); ?>
 				</div>
 				<p class="p1">This includes three or more quick fixes that add up to a slightly more noticeable makeover.</p>
 
-				<h3 class="price">$50</h3>
-				<h3 class="contact"><a href="http://www.beccanelsonmakesthings.com/contact/">Contact Me</a></h3><span class="clearfix"><nbsp></span>
-			</div>
+				<h3 class="price">Starting at $50</h3>
+<!-- 				<h3 class="contact"><a href="http://www.beccanelsonmakesthings.com/contact/">Contact Me</a></h3><span class="clearfix"><nbsp></span>
+ -->			</div>
 
 			<div class="services"> 
 				<h1 class="packages-header">Now it's getting serious...</h1>
@@ -79,9 +79,9 @@ get_header(); ?>
 				</div>
 				<p class="p1">This includes theme install + three or more quick fixes. Your blog will feel like a new person… except it’s a blog.</p>
 
-				<h3 class="price">$75</h3>
-				<h3 class="contact"><a href="http://www.beccanelsonmakesthings.com/contact/">Contact Me</a></h3><span class="clearfix"><nbsp></span>
-			</div>
+				<h3 class="price">Starting at $75</h3>
+<!-- 				<h3 class="contact"><a href="http://www.beccanelsonmakesthings.com/contact/">Contact Me</a></h3><span class="clearfix"><nbsp></span>
+ -->			</div>
 
 			<div class="services">
 				<h1 class="packages-header">I have never done this before!</h1>
@@ -90,9 +90,9 @@ get_header(); ?>
 				</div>
 				<p class="p1">Have no fear, I can help you out with setting up hosting, installing wordpress, migrating content, and configuring your theme. I can even help you choose a host and a theme if you’re a complete newbie.</p>
 
-				<h3 class="price">$100</h3>
-				<h3 class="contact"><a href="http://www.beccanelsonmakesthings.com/contact/">Contact Me</a></h3><span class="clearfix"><nbsp></span>
-			</div>
+				<h3 class="price">Starting at $100</h3>
+<!-- 				<h3 class="contact"><a href="http://www.beccanelsonmakesthings.com/contact/">Contact Me</a></h3><span class="clearfix"><nbsp></span>
+ -->			</div>
 
 			<div class="services">
 				<h1 class="packages-header">I need something custom made.</h1>
@@ -101,9 +101,9 @@ get_header(); ?>
 				</div>
 				<p class="p1">I would love to talk to you about what you need for a custom theme. Pricing will depend on what you need, and how quickly you need it.</p>
 
-				<h3 class="price">$150+</h3>
-				<h3 class="contact"><a href="http://www.beccanelsonmakesthings.com/contact/">Contact Me</a></h3><span class="clearfix"><nbsp></span>
-			</div>
+				<h3 class="price"><a href="http://www.beccanelsonmakesthings.com/contact/">Ask for a quote</a></h3>
+<!-- 				<h3 class="contact"><a href="http://www.beccanelsonmakesthings.com/contact/">Contact Me</a></h3><span class="clearfix"><nbsp></span>
+ -->			</div>
 
 			<div class="extras">
 				<h1>Extra add-ons</h1>
@@ -119,8 +119,8 @@ get_header(); ?>
 						<li class="p1">Adding a post format</li>
 						<li class="p1">Re-configuring your landing page</li>
 					</ul>
-					<h3>$30</h3>
-				</div> <!-- extra1 -->
+<!-- 					<h3>Starting at $30</h3>
+ -->				</div> <!-- extra1 -->
 				<div class="extra2">
 				<h2>A bit of JavaScript</h2>
 					<p class="p1">JavaScript might include:</p>
@@ -129,9 +129,10 @@ get_header(); ?>
 						<li class="p1">Adding an awesome shrinking header (like the one on this page)</li>
 						<li class="p1">Creating click or hover effects such as moving, re-sizing, showing or hiding content</li>
 					</ul>
-					<h3>$40</h3>
+					<!-- <h3>$40</h3> -->
 				</div><!-- extra2 -->
 				<span class="clearfix"><nbsp /></span>
+				<h3 id = "extra-price">Starting at $30</h3>
 			</div>
 			<hr />
 

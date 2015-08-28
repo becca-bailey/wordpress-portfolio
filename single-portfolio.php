@@ -28,7 +28,6 @@ get_header(); ?>
 		$link_before = wp_get_attachment_url( $before );
 		$size = 'large';
 		$size_2 = 'medium';
-		$arrow_right = wp_get_attachment_url( 'http://www.beccanelsonmakesthings.com/wp-content/uploads/2015/08/keyboard53-1.png');
 	?>
 
 	<article class="portfolio-entry">

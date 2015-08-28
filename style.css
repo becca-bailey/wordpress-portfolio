@@ -75,6 +75,7 @@ table {
     visibility: hidden;
     line-height: 0;
     height: 0;
+    width: 100%;
 }
  
 .clearfix {
@@ -980,10 +981,17 @@ p.p1 {
 }
 
  
-h3.price {
+/*h3.price {
 	float: left;
 	margin-bottom: 40px;
 	width: 50%;
+}*/
+
+#extra-price {
+	width: 100%;
+	text-align: center;
+	clear: both;
+
 }
 
 h3.contact {
@@ -995,6 +1003,7 @@ h3.contact {
 .services {
 	border-bottom: 1px solid #bfbfbf;
 	clear: both;
+	padding-bottom: 40px;
 }
 
 .extra1 {
@@ -1109,7 +1118,7 @@ aside.portfolio-sidebar p.site-link, p.site-link  {
 	font-size: 1.1em;
 	margin-left: 20px;
 }
-aside.portfolio-sidebar p.site-link img {
+.site-link img {
 	margin-bottom: 0;
 }
 
@@ -1127,7 +1136,7 @@ aside.portfolio-sidebar p.back-link, p.writing-link {
 	width: 50%;
 	float: left;
 	display: inline;
-	padding: 8px;
+	padding: 10px;
 
 }
 

@@ -55,7 +55,7 @@ get_header(); ?>
 		<p class="site-link writing-link">
 			<a href ="http://www.beccanelsonwrites.com/writing">
 				<img src="http://www.beccanelsonmakesthings.com/wp-content/uploads/2015/08/keyboard53-1.png" />
-				<strong>Click here to see published writing.</strong>
+				<strong>Visit my blog to see published writing.</strong>
 			</a>
 		</p>
 	</div>
