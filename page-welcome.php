@@ -38,7 +38,7 @@ get_header(); ?>
 				</div>
 				<p class="p1">Do you have a wordpress question? Do you need an opinion about your blog? If you want to learn to do some small fixes yourself, email me! I would love to help you out.</p>
 				<h3 class="price">Free!</h3>
-				<h3 class="contact"><a href="<?php echo site_url('/contact/'); ?>">Contact Me</a></h3><span class="clearfix"><nbsp></span>
+				<!-- <h3 class="contact"><a href="<?php echo site_url('/contact/'); ?>">Contact Me</a></h3><span class="clearfix"><nbsp></span> -->
 			</div>
 
 			<div class="services">
@@ -162,7 +162,7 @@ get_header(); ?>
 				<p class="p1">* All of my packages include revisions.  This means if I fixed it and it’s still not exactly right, I will gladly fix it again.  I also answer questions, listen to all of your Wordpress frustration, and give lots of free advice. </p>
 				<p class="p1">** Prices are estimates, and may change based on the scope of the project.  If something changes, I will ALWAYS ask you first. </p>
 				<p class="p1">*** I promise I am not a creeper.  I also promise I will not make any changes to your blog’s appearance or content without your permission and approval. </p>
-				<center><a class="btn" href="http://www.beccanelsonmakesthings.com/contact/">Let's get started!</a></center><span class="clearfix"><nbsp /></span>
+				<center><a class="btn" href="<?php echo site_url('/what-can-i-help-you-with/'); ?>">Let's get started!</a></center><span class="clearfix"><nbsp /></span>
 			</div>
 		<?php endwhile; ?>
 	</div> <!-- Page Main Content -->

@@ -416,8 +416,8 @@ section.index-page div.main-content {
 }
 .entry-summary a {
 	color: #45ac9d;
-	text-decoration: underline;
-	font-weight: bold;
+	/*text-decoration: underline;
+	font-weight: bold;*/
 }
 .entry-summary a:hover {
 	text-decoration: none;
@@ -618,10 +618,10 @@ section.index-page div.main-content {
 #navigation .right a:hover {
 	text-decoration: none;
 }
-#navigation .left a:hover span,
+/*#navigation .left a:hover span,
 #navigation .right a:hover span {
 	text-decoration: underline;
-}
+}*/
 /* End next / prev */
 
 /* single posts */
@@ -725,7 +725,7 @@ section.index-page div.main-content {
 
 	/* Homepage */
 .home {
-	background: url(https://download.unsplash.com/5/unsplash-bonus.jpg) no-repeat center 0;
+	background: url(http://www.beccanelsonmakesthings.com/wp-content/uploads/2015/08/unsplash-bonus-e1440735527704.jpg) no-repeat center 0;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -758,8 +758,8 @@ section.index-page div.main-content {
 	margin-bottom: 24px;
 }
 .home .content p a {
-	font-weight: 700;
-	text-decoration: underline;
+	/*font-weight: 700;
+	text-decoration: underline;*/
 	color: #3b3b3b;
 }
 .home .content .social-btns {
@@ -930,7 +930,7 @@ nav.top-nav ul li a {
 
 nav.top-nav ul li a:hover {
 	color: #ababab;
-	border-bottom: 1px solid #45ac9d;
+	/*border-bottom: 1px solid #45ac9d;*/
 }
 
 .post-entry a {
@@ -1074,7 +1074,7 @@ h2.project-link {
 
 #mobile-only ul li:hover {
 	color: #ababab;
-	border-bottom: 1px solid #45ac9d;
+	/*border-bottom: 1px solid #45ac9d;*/
 }
 
 /*Portfolio Styles*/
@@ -1222,7 +1222,24 @@ aside.portfolio-sidebar p.back-link, p.writing-link {
 		color: #ababab;
 	}
 
+	.portfolio-page, .portfolio-archive {
+		margin-top: 0;
+	}
+	section.index-page div.main-content {
+		margin-top: 0 !important;
+	}
+
+	.single-page .main-content {
+		margin-top: 138px;
+	}
+
 	.page-main-content {
+		padding: 0;
+		margin-top: 0;
+	}
+
+	.main-content .page-main-content {
+		margin-top: 0;
 		padding: 0;
 	}
 
